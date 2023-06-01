@@ -29,5 +29,7 @@
         "env.bak{,/**}",
         "venv.bak{,/**}",
         ".vscode{,/**}"
-    ]
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/af7a2602-38cb-4751-9caa-7b48052b591c/resourceGroups/python-fast-api-mk_group/providers/Microsoft.Web/sites/python-fast-api-mk",
+    "appService.deploySubpath": "."
 }
